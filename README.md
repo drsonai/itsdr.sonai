@@ -1,4 +1,4 @@
-# Hi there, I'm [Somtochukwua,a junior backend developer in alx]! 👋
+# Hi there, I'm [Somtochukwu,a junior backend developer in alx]! 👋
 
 ![Banner Image](![IMG_0707](https://github.com/user-attachments/assets/e6dadf55-5015-412f-88fd-b2c226db004c)
 )
